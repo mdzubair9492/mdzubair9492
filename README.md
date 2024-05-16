@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on Quantum Machine Learning Projects
 - 📫 You can reach me out by linkedin
 - 😄 Pronouns: He
-  
+![](https://komarev.com/ghpvc/?username=mdzubair9492)
+![](https://komarev.com/ghpvc/?username=mdzubair9492&color=green)
+
 
 <!---
 mdzubair9492/mdzubair9492 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
