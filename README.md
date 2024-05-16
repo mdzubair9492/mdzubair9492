@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Quantum Machine Learning Projects
 - 📫 You can reach me out by linkedin
 - 😄 Pronouns: He
-![](https://komarev.com/ghpvc/?username=mdzubair9492)
 ![](https://komarev.com/ghpvc/?username=mdzubair9492&color=green)
 
 
