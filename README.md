@@ -42,10 +42,9 @@ Check out my journey as I solve algorithmic challenges on LeetCode:
 
 ---
 
-## 📊 GitHub Contributions  
+## 📊 My GitHub Contributions
 
-![GitHub Contribution Graph](https://github.com/mdzubair9492/mdzubair9492/assets/contribution-graph)
-
+[![Md Zubair's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdzubair9492&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
