@@ -46,7 +46,7 @@ Check out my journey as I solve algorithmic challenges on LeetCode:
 Here’s a visual representation of my GitHub activity:  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdzubair9492&theme=dark)  
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mdzubair9492&theme=react-dark)  
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mdzubair9492&theme=github-dark&hide_border=true)  
 
 ---
 
