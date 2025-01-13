@@ -1,10 +1,63 @@
-- 👋 Hi, I’m @mdzubair9492
-- 👀 I’m interested in AI and Quantum Computing specifically Quantum Machine Learning
-- 🌱 I’m currently learning Quantum Computing and AI
-- 💞️ I’m looking to collaborate on Quantum Machine Learning Projects
-- 📫 You can reach me out by linkedin
-- 😄 Pronouns: He
-![](https://komarev.com/ghpvc/?username=mdzubair9492&color=green)
+# 👋 Hi, I’m @mdzubair9492  
+
+I’m a 3rd-year undergraduate student with a passion for **Quantum Computing**, **Artificial Intelligence**, and **Quantum Machine Learning**. I enjoy solving problems, exploring advanced technologies, and collaborating on impactful projects.  
+
+---
+
+## 🌟 About Me  
+- **👀 Interests**: AI, Quantum Computing (specifically Quantum Machine Learning & Quantum Drug Discovery)  
+- **🌱 Currently Learning**: Quantum Computing, AI, and practical problem-solving through platforms like Deep-ML and LeetCode  
+- **💞️ Open to Collaborate On**: Quantum Machine Learning projects or interdisciplinary AI research  
+- **📫 Reach Me On**: [LinkedIn](https://www.linkedin.com/in/md-zubair-419242227/)  
+
+---
+
+## 🧠 Deep-ML Progress Tracker  
+This section tracks my daily progress as I practice challenges on Deep-ML:  
+
+| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+|-----|-----|-----|-----|-----|-----|-----|
+|     |     |     |     |     | ⬜ 5 | ⬜ 6 |
+| ⬜ 7 | ⬜ 8 | ⬜ 9 | ⬜ 10 | ⬜ 11 | ⬜ 12 | ⬜ 13 |
+| ⬜ 14 | ⬜ 15 | ⬜ 16 | ⬜ 17 | ⬜ 18 | ⬜ 19 | ⬜ 20 |
+| ⬜ 21 | ⬜ 22 | ⬜ 23 | ⬜ 24 | ⬜ 25 | ⬜ 26 | ⬜ 27 |
+| ⬜ 28 | ⬜ 29 | ⬜ 30 | ⬜ 31 |     |     |     |
+
+- **Completion Rate**: 0%  
+- **Challenges Solved**: 0  
+
+---
+
+## 🏅 My PennyLane Profile  
+I’m part of the **PennyLane Community**, focusing on quantum machine learning development. Here's a quick look at my certifications and progress:  
+
+[![PennyLane Profile](https://your-pennylane-profile-link.com)](https://pennylane.ai/profile/MdZubair)  
+
+---
+
+## 🏆 LeetCode Progress  
+Check out my journey as I solve algorithmic challenges on LeetCode:  
+
+![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=mz548492&theme=dark)  
+
+---
+
+## 📊 GitHub Contributions  
+Here’s a visual representation of my GitHub activity:  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdzubair9492&theme=dark)  
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mdzubair9492&theme=react-dark)  
+
+---
+
+## 🚀 Future Goals  
+1. Gain in-depth expertise in machine learning through daily practice.  
+2. Explore innovative quantum computing approaches.  
+3. Collaborate with like-minded individuals on cutting-edge AI projects.  
+4. Build and contribute to impactful open-source repositories.  
+
+Let’s make a difference together! 🌌  
+
 
 
 <!---
