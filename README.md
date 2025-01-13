@@ -29,7 +29,7 @@ This section tracks my daily progress as I practice challenges on Deep-ML:
 ---
 
 ## 🏅 My PennyLane Profile  
-I’m part of the **PennyLane Community**, focusing on quantum machine learning development. Here's a quick look at my certifications and progress:  
+I’m also practicing Quantum Computing Problems  from  **PennyLane**. Here's a quick look at my certifications and progress:  
 
 [PennyLane Profile](https://https://pennylane.ai/profile/MdZubair)
 
