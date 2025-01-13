@@ -43,9 +43,10 @@ Check out my journey as I solve algorithmic challenges on LeetCode:
 ---
 
 ## 📊 GitHub Contributions  
-Here’s a visual representation of my GitHub activity:  
 
-![](https://komarev.com/ghpvc/?username=mdzubair9492&color=green)
+![GitHub Contribution Graph](https://github.com/mdzubair9492/mdzubair9492/assets/contribution-graph)
+
+
 
 
 ---
