@@ -31,7 +31,7 @@ This section tracks my daily progress as I practice challenges on Deep-ML:
 ## 🏅 My PennyLane Profile  
 I’m part of the **PennyLane Community**, focusing on quantum machine learning development. Here's a quick look at my certifications and progress:  
 
-[![PennyLane Profile](https://your-pennylane-profile-link.com)](https://pennylane.ai/profile/MdZubair)  
+[![PennyLane Profile](https://https://pennylane.ai/profile/MdZubair)]
 
 ---
 
@@ -40,11 +40,7 @@ Check out my journey as I solve algorithmic challenges on LeetCode:
 
 ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=mz548492&theme=dark)  
 
----
 
-## 📊 My GitHub Contributions
-
-[![Md Zubair's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdzubair9492&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
