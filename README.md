@@ -12,21 +12,7 @@ I’m a 3rd-year undergraduate student with a passion for **Quantum Computing**,
 
 ---
 
-## 🧠 Deep-ML Progress Tracker  
-This section tracks my daily progress as I practice challenges on Deep-ML:  
 
-| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
-|-----|-----|-----|-----|-----|-----|-----|
-|     |     |     |     |     | ⬜ 5 | ⬜ 6 |
-| ⬜ 7 | ⬜ 8 | ⬜ 9 | ⬜ 10 | ⬜ 11 | ⬜ 12 | ⬜ 13 |
-| ⬜ 14 | ⬜ 15 | ⬜ 16 | ⬜ 17 | ⬜ 18 | ⬜ 19 | ⬜ 20 |
-| ⬜ 21 | ⬜ 22 | ⬜ 23 | ⬜ 24 | ⬜ 25 | ⬜ 26 | ⬜ 27 |
-| ⬜ 28 | ⬜ 29 | ⬜ 30 | ⬜ 31 |     |     |     |
-
-- **Completion Rate**: 0%  
-- **Challenges Solved**: 0  
-
----
 
 ## 🏅 My PennyLane Profile  
 I’m also practicing Quantum Computing Problems  from  **PennyLane**. Here's a quick look at my certifications and progress:  
