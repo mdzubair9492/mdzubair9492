@@ -24,7 +24,7 @@ I’m also practicing Quantum Computing Problems  from  **PennyLane**. Here's a 
 ## 🏆 LeetCode Progress  
 Check out my journey as I solve algorithmic challenges on LeetCode:  
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=mz548492&theme=dark)  
+![LeetCode Stats]([https://leetcode-stats.vercel.app/api?username=mz548492&theme=dark](https://leetcode-stats-card.vercel.app/mz548492?theme=dark))  
 
 
 
